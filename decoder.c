@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+хуй
 int translate(char n);
 char register_def(int n);
 
